@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Buttons Task</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_btn_info">Short Info</string>
+    <string name="str_btn_question">Ask a question</string>
+    <string name="str_btn_toggle">Toggle</string>
+</resources>
